@@ -7,3 +7,4 @@ This project serves as a practical foundation for HTML and GitHub.
 
 Credits:
 lasagne.jpg - rawpixel.com, creator unlisted
+cornflakecakes.jpg - flickr.com, Robert Sharp
